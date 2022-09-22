@@ -7,10 +7,6 @@
     {
       "content": "the best featrure ever <3",
       "id": 2
-    },
-    {
-      "content": "ававава",
-      "id": 3
     }
   ],
   "persons": [
@@ -23,11 +19,6 @@
       "name": "kaltsoon",
       "number": "045-2323456",
       "id": 2
-    },
-    {
-      "name": "fdfd",
-      "number": "fdfdfd",
-      "id": 3
     }
   ]
 }
